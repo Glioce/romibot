@@ -5,6 +5,8 @@
   v1 probar celda de carga
   v2 agregar LCD modo 4 bits
   v3 cambiar librería para HX711
+
+  gfoewidfdfklj
 ********************************/
 
 // LCD
